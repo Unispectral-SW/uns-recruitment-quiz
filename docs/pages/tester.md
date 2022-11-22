@@ -34,8 +34,12 @@ Write a script "*test_q2.py*" which can realize the following functions:
 
 > <img src="https://user-images.githubusercontent.com/98015835/203262756-84e08fc6-3196-4306-9108-1051d07f304a.png" width="700" height="340">
 
-</br>&emsp; 6. <font color="red">check if the analysis result is correct automatically.(important!)</font>
+</br>&emsp; 6. if there is anything wrong with the algorithm, the analysis result will be different.<font color="red"> So, you should think about how to check if the analysis result is correct automatically.</font> 
 
 
 #### 3. Feedback:
+when you finishing the quiz, you have to packing the following data and send to us:
+1. all python scripts.
+2. screen recording which can show the whole process of running the two scripts. 
+
 contact: super.feng@unispectral.com if you have any questions or want to submit your answers.
