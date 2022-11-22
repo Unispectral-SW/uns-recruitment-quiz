@@ -38,7 +38,7 @@ Write a script "*test_q2.py*" which can realize the following functions:
 
 
 #### 3. Feedback:
-when you finishing the quiz, you have to packing the following data and send to us:
+when you finishing the quiz, you have to compress the following files and send to us:
 1. all python scripts.
 2. screen recording which can show the whole process of running the two scripts. 
 
