@@ -34,12 +34,16 @@ Write a script "*test_q2.py*" which can realize the following functions:
 
 > <img src="https://user-images.githubusercontent.com/98015835/203262756-84e08fc6-3196-4306-9108-1051d07f304a.png" width="700" height="340">
 
-</br>&emsp; 6. if there is anything wrong with the algorithm, the analysis result will be different.<font color="red"> So, you should think about how to check if the analysis result is correct automatically.</font> 
+</br>&emsp; 6. when running the testing script, if there is no baseline, save the screenshot of the analysis result as the baseline. </br>&emsp;if the baseline exists, compare the screenshot with baseline. assert the new screenshot is as same as the baseline. you can refer to the following figure.
+
+> <img src="https://user-images.githubusercontent.com/98015835/204443104-cd8cc5b3-25a6-4670-ba79-1f8a813abe13.png" width="700" height="1200">
+
+</br>&emsp; **Notice:** the step 6 is very important! Show your excellent coding skill to us.
 
 
 #### 3. Feedback:
 when you finishing the quiz, you have to compress the following files and send to us:
 1. all python scripts.
-2. screen recording which can show the whole process of running the two scripts. 
+2. log file
 
 contact: super.feng@unispectral.com if you have any questions or want to submit your answers.
